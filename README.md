@@ -1,6 +1,6 @@
 ### Olá, seja muito bem vindo ao meu GitHub!
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/KeaKzinho" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/KeaKzinho](https://avatars.githubusercontent.com/u/145056753?v=4" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
