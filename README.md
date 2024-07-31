@@ -22,6 +22,4 @@ Hello, my focus is on the Front End web area, with some knowledge in BackEnd, su
 
 #### ----
 
-![keakzinho GitHub stats](https://github-readme-stats.vercel.app/api?username=keakzinho&show_icons=true&theme=dark)
-
 ![keakzinho](https://streak-stats.demolab.com?user=keakzinho&theme=dark&hide_border=true&border_radius=5&card_width=800")
