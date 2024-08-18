@@ -6,10 +6,10 @@
 Atualmente sou estudante da Proz Educação, cursando Análise e Desenvolvimento de sistemas, na área Front-End web, e com alguns conhecimentos em Back-End.
 Sou Youtuber, editor e programador (ainda iniciante), e planejo cada vez mais crescer nessas áreas.
 
-Canal de comunidade:
+Canal de comunidade: <br>
 https://www.youtube.com/@ComunidadeDriveWorldBR
 
-Canal pessoal (no momento parado):  
+Canal pessoal (no momento parado):  <br>
 https://www.youtube.com/@-keakmarty
 
 ### Skills:
