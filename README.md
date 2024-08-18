@@ -2,10 +2,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keakzinho&layout=compact&theme=dark&hide=)
 
-### About me:
-Hello, my focus is on the Front End web area, with some knowledge in BackEnd, such as Java (Spring), Python and PHP.
+### Sobre mim:
+Atualmente sou estudante da Proz Educação, cursando Análise e Desenvolvimento de sistemas, na área Front-End web, e com alguns conhecimentos em Back-End.
+Sou Youtuber, editor e programador (ainda iniciante), e planejo cada vez mais crescer nessas áreas.
 
+Canal de comunidade:
+https://www.youtube.com/@ComunidadeDriveWorldBR
 
+Canal pessoal (no momento parado):  
+https://www.youtube.com/@-keakmarty
 
 ### Skills:
 
