@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keakzinho&layout=compact&theme=dark&hide=)
 
 ### Sobre mim:
-Atualmente sou estudante da Proz Educação, cursando Análise e Desenvolvimento de sistemas, na área Front-End web, e com alguns conhecimentos em Back-End.<br>
+Atualmente sou estudante da Proz Educação, cursando Análise e Desenvolvimento de sistemas, com conhecimentos principalmente na área Front-End web, e alguns em Back-End.<br>
 Sou Youtuber, editor e programador (ainda iniciante), e planejo cada vez mais crescer nessas áreas.
 
 Canal de comunidade: <br>
