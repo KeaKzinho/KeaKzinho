@@ -3,14 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keakzinho&layout=compact&theme=dark&hide=)
 
 ### Sobre mim:
-Atualmente sou estudante da Proz Educação, cursando Análise e Desenvolvimento de sistemas, com conhecimentos principalmente na área Front-End web, e alguns em Back-End.<br>
-Sou Youtuber, editor e programador (ainda iniciante), e planejo cada vez mais crescer nessas áreas.
+Atualmente sou estudante da Proz Educação, cursando Desenvolvimento de Sistemas, com conhecimentos principalmente na área Front-End web.<br>
+Sou Youtuber, editor, programador e designer (ainda iniciante), e planejo cada vez mais crescer nessas áreas. <br>
+Atualmente com foco maior em design, Youtuber e edição de vídeos, fazendo vídeos técnicos e detalhados sobre um jogo chamado Drive World, aprendendo mais escrever roteiros e ensinar
+as pessoas.
 
 Canal de comunidade: <br>
 https://www.youtube.com/@ComunidadeDriveWorldBR
-
-Canal pessoal (no momento parado):  <br>
-https://www.youtube.com/@-keakmarty
 
 ### Skills:
 
